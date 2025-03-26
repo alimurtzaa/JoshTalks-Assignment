@@ -19,8 +19,8 @@ A Django REST Framework-based task management system allowing users to create, a
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/task-management-api.git
-cd task-management-api
+git clone https://github.com/alimurtzaa/JoshTalks-Assignment.git
+cd task_management_project
 ```
 
 2. Create and activate a virtual environment
